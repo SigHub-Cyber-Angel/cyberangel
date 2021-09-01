@@ -6,4 +6,8 @@ We are pleased to see ideas, suggestions and help being actively discussed.
 
 Please keep it civilized, we keep the right to moderate comments. For further details pls have a look at the [Community Guidelines](https://docs.github.com/en/github/site-policy/github-community-guidelines).
 
+
+## Get started -> [Discussion](https://github.com/SigHub-Cyber-Angel/cyberangel/discussions)
+
+
 Your Cyber Angel team
